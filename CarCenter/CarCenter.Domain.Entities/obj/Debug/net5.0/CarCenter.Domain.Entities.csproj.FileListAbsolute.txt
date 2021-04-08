@@ -1,0 +1,15 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\CarCenter.Domain.Entities.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\ref\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\ref\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Domain.Entities\obj\Debug\net5.0\CarCenter.Domain.Entities.pdb

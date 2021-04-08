@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CarCenter.Infrastructure.Persistence.Interfaces/1.0.0": {
+        "dependencies": {
+          "CarCenter.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CarCenter.Infrastructure.Persistence.Interfaces.dll": {}
+        }
+      },
+      "CarCenter.Common.Enums/1.0.0": {
+        "runtime": {
+          "CarCenter.Common.Enums.dll": {}
+        }
+      },
+      "CarCenter.Domain.Entities/1.0.0": {
+        "dependencies": {
+          "CarCenter.Common.Enums": "1.0.0"
+        },
+        "runtime": {
+          "CarCenter.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarCenter.Infrastructure.Persistence.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarCenter.Common.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarCenter.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

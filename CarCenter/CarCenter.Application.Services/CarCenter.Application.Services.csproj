@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarCenter.Application.Interfaces\CarCenter.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\CarCenter.Infrastructure.Persistence.Interfaces\CarCenter.Infrastructure.Persistence.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

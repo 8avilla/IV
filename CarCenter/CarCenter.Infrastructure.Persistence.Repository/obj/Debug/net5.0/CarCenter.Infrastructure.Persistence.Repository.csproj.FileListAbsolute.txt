@@ -1,0 +1,42 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.deps.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.csproj.CopyComplete
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Infrastructure.Persistence.Repository\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb

@@ -1,0 +1,17 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Application.Interfaces.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\ref\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Application.Interfaces.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\ref\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Application.Interfaces\obj\Debug\net5.0\CarCenter.Application.Interfaces.pdb

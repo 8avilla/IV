@@ -1,0 +1,38 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\ref\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\ref\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.deps.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\ref\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Mappers.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.csproj.CopyComplete
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\ref\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter.Common.Mappers\obj\Debug\net5.0\CarCenter.Common.Mappers.pdb

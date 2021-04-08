@@ -1,0 +1,12 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\bin\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Entities\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb

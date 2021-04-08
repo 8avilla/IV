@@ -1,0 +1,612 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter\\CarCenter.Application.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj",
+        "projectName": "CarCenter.Application.Interfaces",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\CarCenter.Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\CarCenter.Application.Services.csproj",
+        "projectName": "CarCenter.Application.Services",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\CarCenter.Application.Services.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\CarCenter.Common.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\CarCenter.Common.Enums.csproj",
+        "projectName": "CarCenter.Common.Enums",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\CarCenter.Common.Enums.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\CarCenter.Common.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\CarCenter.Common.Mappers.csproj",
+        "projectName": "CarCenter.Common.Mappers",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\CarCenter.Common.Mappers.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj",
+        "projectName": "CarCenter.Domain.Entities",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\CarCenter.Common.Enums.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Enums\\CarCenter.Common.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj",
+        "projectName": "CarCenter.Infrastructure.Persistence.Entities",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj",
+        "projectName": "CarCenter.Infrastructure.Persistence.Interfaces",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Domain.Entities\\CarCenter.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\CarCenter.Infrastructure.Persistence.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\CarCenter.Infrastructure.Persistence.Repository.csproj",
+        "projectName": "CarCenter.Infrastructure.Persistence.Repository",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\CarCenter.Infrastructure.Persistence.Repository.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Entities\\CarCenter.Infrastructure.Persistence.Entities.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter\\CarCenter.Application.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter\\CarCenter.Application.Api.csproj",
+        "projectName": "CarCenter.Application.Api",
+        "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter\\CarCenter.Application.Api.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Interfaces\\CarCenter.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\CarCenter.Application.Services.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Application.Services\\CarCenter.Application.Services.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\CarCenter.Common.Mappers.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Common.Mappers\\CarCenter.Common.Mappers.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Interfaces\\CarCenter.Infrastructure.Persistence.Interfaces.csproj"
+              },
+              "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\CarCenter.Infrastructure.Persistence.Repository.csproj": {
+                "projectPath": "C:\\Users\\IVAN\\Desktop\\Prueba Ivan Villamil\\CarCenter\\CarCenter.Infrastructure.Persistence.Repository\\CarCenter.Infrastructure.Persistence.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CarCenter.Domain.Entities/1.0.0": {
+        "dependencies": {
+          "CarCenter.Common.Enums": "1.0.0"
+        },
+        "runtime": {
+          "CarCenter.Domain.Entities.dll": {}
+        }
+      },
+      "CarCenter.Common.Enums/1.0.0": {
+        "runtime": {
+          "CarCenter.Common.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarCenter.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarCenter.Common.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

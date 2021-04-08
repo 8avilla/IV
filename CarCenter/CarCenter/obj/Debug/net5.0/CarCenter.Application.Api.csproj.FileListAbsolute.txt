@@ -1,0 +1,106 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\appsettings.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.exe
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.runtimeconfig.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.runtimeconfig.dev.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\ref\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\staticwebassets\CarCenter.Application.Api.StaticWebAssets.Manifest.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\staticwebassets\CarCenter.Application.Api.StaticWebAssets.xml
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\scopedcss\bundle\CarCenter.Application.Api.styles.css
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.RazorTargetAssemblyInfo.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\ref\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.genruntimeconfig.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Interfaces.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\Dapper.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Services.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Services.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Mappers.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\appsettings.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.exe
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.deps.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.runtimeconfig.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.runtimeconfig.dev.json
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\ref\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Api.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\Dapper.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Interfaces.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Services.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Mappers.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Interfaces.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Application.Services.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Mappers.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Repository.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Entities.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\staticwebassets\CarCenter.Application.Api.StaticWebAssets.Manifest.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\staticwebassets\CarCenter.Application.Api.StaticWebAssets.xml
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\scopedcss\bundle\CarCenter.Application.Api.styles.css
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.RazorTargetAssemblyInfo.cache
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.csproj.CopyComplete
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\ref\CarCenter.Application.Api.dll
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.pdb
+C:\Users\IVAN\Desktop\Prueba Ivan Villamil\CarCenter\CarCenter\obj\Debug\net5.0\CarCenter.Application.Api.genruntimeconfig.cache

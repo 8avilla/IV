@@ -1,0 +1,17 @@
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.deps.json
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Common.Enums.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Domain.Entities.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Domain.Entities.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\bin\Debug\net5.0\CarCenter.Common.Enums.pdb
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.csproj.CopyComplete
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\ref\CarCenter.Infrastructure.Persistence.Interfaces.dll
+C:\Users\IVAN\Desktop\CarCenter\CarCenter.Infrastructure.Persistence.Interfaces\obj\Debug\net5.0\CarCenter.Infrastructure.Persistence.Interfaces.pdb
